@@ -1,2 +1,2 @@
 # star-wars-crawl-text
-Simple project to develop start wars crawn text animation
+Simple project to develop star wars crawn text animation
